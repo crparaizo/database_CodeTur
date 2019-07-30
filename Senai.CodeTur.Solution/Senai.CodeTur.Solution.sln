@@ -17,7 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Senai.CodeTur.Dominio", "Se
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Senai.CodeTur.Infra.Data", "Senai.CodeTur.Infra.Data\Senai.CodeTur.Infra.Data.csproj", "{00CEE2DE-88C3-4D29-B539-3C2B970DB799}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senai.CodeTur.Servico", "Senai.CodeTur.Servicos\Senai.CodeTur.Servico.csproj", "{BFA9EFA9-9218-48A2-86CB-0972D9CC617D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Senai.CodeTur.Servico", "Senai.CodeTur.Servicos\Senai.CodeTur.Servico.csproj", "{BFA9EFA9-9218-48A2-86CB-0972D9CC617D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Senai.CodeTur.Teste.XUnit", "Senai.CodeTur.Testes\Senai.CodeTur.Teste.XUnit.csproj", "{F28D28D6-BEB6-4BE1-A41B-DD87794B3609}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senai.CodeTur.Web.Api", "Senai.CodeTur.Web.Api\Senai.CodeTur.Web.Api.csproj", "{798A4468-4538-4E85-AE03-8EAEFB051E7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +41,14 @@ Global
 		{BFA9EFA9-9218-48A2-86CB-0972D9CC617D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFA9EFA9-9218-48A2-86CB-0972D9CC617D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFA9EFA9-9218-48A2-86CB-0972D9CC617D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F28D28D6-BEB6-4BE1-A41B-DD87794B3609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28D28D6-BEB6-4BE1-A41B-DD87794B3609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28D28D6-BEB6-4BE1-A41B-DD87794B3609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28D28D6-BEB6-4BE1-A41B-DD87794B3609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{798A4468-4538-4E85-AE03-8EAEFB051E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798A4468-4538-4E85-AE03-8EAEFB051E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798A4468-4538-4E85-AE03-8EAEFB051E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798A4468-4538-4E85-AE03-8EAEFB051E7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -45,6 +57,8 @@ Global
 		{4D5B36A2-5C7E-417B-97B7-7B355BA85023} = {D90C17C2-2D3D-41B8-88A8-E01618957AAE}
 		{00CEE2DE-88C3-4D29-B539-3C2B970DB799} = {D1D63011-1D15-4B22-9417-932897C46CCD}
 		{BFA9EFA9-9218-48A2-86CB-0972D9CC617D} = {45500523-582C-440C-8BCE-2041F34941F2}
+		{F28D28D6-BEB6-4BE1-A41B-DD87794B3609} = {74D55A42-4DB2-45DF-8CF7-81B83E5966B0}
+		{798A4468-4538-4E85-AE03-8EAEFB051E7D} = {290C8FD0-2F6B-4550-A1D1-98609589A047}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D5854AB3-3589-43CC-89BE-1A9EED84F723}

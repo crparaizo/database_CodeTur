@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ViewsModel\" />
+    <Folder Include="ViewModels\" />
   </ItemGroup>
 
 </Project>
