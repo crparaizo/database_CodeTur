@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Dominio", "1 - Dominio", "{D90C17C2-2D3D-41B8-88A8-E01618957AAE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Infra.Data", "2 - Infra.Data", "{D1D63011-1D15-4B22-9417-932897C46CCD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Servicos", "3 - Servicos", "{45500523-582C-440C-8BCE-2041F34941F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Apresentacao", "4 - Apresentacao", "{290C8FD0-2F6B-4550-A1D1-98609589A047}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Testes", "5 - Testes", "{74D55A42-4DB2-45DF-8CF7-81B83E5966B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Senai.CodeTur.Dominio", "Senai.CodeTur.Dominio\Senai.CodeTur.Dominio.csproj", "{4D5B36A2-5C7E-417B-97B7-7B355BA85023}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Senai.CodeTur.Infra.Data", "Senai.CodeTur.Infra.Data\Senai.CodeTur.Infra.Data.csproj", "{00CEE2DE-88C3-4D29-B539-3C2B970DB799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senai.CodeTur.Servico", "Senai.CodeTur.Servicos\Senai.CodeTur.Servico.csproj", "{BFA9EFA9-9218-48A2-86CB-0972D9CC617D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D5B36A2-5C7E-417B-97B7-7B355BA85023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D5B36A2-5C7E-417B-97B7-7B355BA85023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D5B36A2-5C7E-417B-97B7-7B355BA85023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D5B36A2-5C7E-417B-97B7-7B355BA85023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00CEE2DE-88C3-4D29-B539-3C2B970DB799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CEE2DE-88C3-4D29-B539-3C2B970DB799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CEE2DE-88C3-4D29-B539-3C2B970DB799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CEE2DE-88C3-4D29-B539-3C2B970DB799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA9EFA9-9218-48A2-86CB-0972D9CC617D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA9EFA9-9218-48A2-86CB-0972D9CC617D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA9EFA9-9218-48A2-86CB-0972D9CC617D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA9EFA9-9218-48A2-86CB-0972D9CC617D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4D5B36A2-5C7E-417B-97B7-7B355BA85023} = {D90C17C2-2D3D-41B8-88A8-E01618957AAE}
+		{00CEE2DE-88C3-4D29-B539-3C2B970DB799} = {D1D63011-1D15-4B22-9417-932897C46CCD}
+		{BFA9EFA9-9218-48A2-86CB-0972D9CC617D} = {45500523-582C-440C-8BCE-2041F34941F2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5854AB3-3589-43CC-89BE-1A9EED84F723}
+	EndGlobalSection
+EndGlobal
