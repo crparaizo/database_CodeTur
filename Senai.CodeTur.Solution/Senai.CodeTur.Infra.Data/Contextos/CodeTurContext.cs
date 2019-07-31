@@ -10,6 +10,8 @@ namespace Senai.CodeTur.Infra.Data.Contextos
     {
         public DbSet <UsuarioDominio> Usuarios { get; set; }
 
+        public DbSet<PacoteDominio> Pacotes { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("Data Source=43765601896;Initial Catalog=CodeTurDev-Candida;User Id=sa;password=S#nai@132");
@@ -24,3 +26,10 @@ namespace Senai.CodeTur.Infra.Data.Contextos
         }
     }
 }
+
+/*
+Ferramentas - Gerenciador de Pacotes do NUget - Console do Gerenciador de Pacotes - Mudar nome PASTA
+
+    Add-Migration "Cria tabela Pacotes"
+    Update-Database
+*/

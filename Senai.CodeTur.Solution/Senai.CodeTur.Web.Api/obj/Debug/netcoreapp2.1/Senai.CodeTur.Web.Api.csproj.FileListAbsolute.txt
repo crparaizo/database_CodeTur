@@ -12,3 +12,10 @@ C:\Users\43765601896\Documents\DevopsCodeTur\Senai.CodeTur.Solution\Senai.CodeTu
 C:\Users\43765601896\Documents\DevopsCodeTur\Senai.CodeTur.Solution\Senai.CodeTur.Web.Api\obj\Debug\netcoreapp2.1\Senai.CodeTur.Web.Api.RazorTargetAssemblyInfo.cache
 C:\Users\43765601896\Documents\DevopsCodeTur\Senai.CodeTur.Solution\Senai.CodeTur.Web.Api\obj\Debug\netcoreapp2.1\Senai.CodeTur.Web.Api.dll
 C:\Users\43765601896\Documents\DevopsCodeTur\Senai.CodeTur.Solution\Senai.CodeTur.Web.Api\obj\Debug\netcoreapp2.1\Senai.CodeTur.Web.Api.pdb
+C:\Users\43765601896\Documents\DevopsCodeTur\Senai.CodeTur.Solution\Senai.CodeTur.Web.Api\bin\Debug\netcoreapp2.1\Senai.CodeTur.Dominio.dll
+C:\Users\43765601896\Documents\DevopsCodeTur\Senai.CodeTur.Solution\Senai.CodeTur.Web.Api\bin\Debug\netcoreapp2.1\Senai.CodeTur.Infra.Data.dll
+C:\Users\43765601896\Documents\DevopsCodeTur\Senai.CodeTur.Solution\Senai.CodeTur.Web.Api\bin\Debug\netcoreapp2.1\Senai.CodeTur.Servico.dll
+C:\Users\43765601896\Documents\DevopsCodeTur\Senai.CodeTur.Solution\Senai.CodeTur.Web.Api\bin\Debug\netcoreapp2.1\Senai.CodeTur.Dominio.pdb
+C:\Users\43765601896\Documents\DevopsCodeTur\Senai.CodeTur.Solution\Senai.CodeTur.Web.Api\bin\Debug\netcoreapp2.1\Senai.CodeTur.Infra.Data.pdb
+C:\Users\43765601896\Documents\DevopsCodeTur\Senai.CodeTur.Solution\Senai.CodeTur.Web.Api\bin\Debug\netcoreapp2.1\Senai.CodeTur.Servico.pdb
+C:\Users\43765601896\Documents\DevopsCodeTur\Senai.CodeTur.Solution\Senai.CodeTur.Web.Api\obj\Debug\netcoreapp2.1\Senai.CodeTur.Web.Api.csproj.CopyComplete

@@ -12,3 +12,11 @@ C:\Users\43765601896\Documents\DevopsCodeTur\Senai.CodeTur.Solution\Senai.CodeTu
 C:\Users\43765601896\Documents\DevopsCodeTur\Senai.CodeTur.Solution\Senai.CodeTur.Testes\obj\Debug\netcoreapp2.1\Senai.CodeTur.Teste.XUnit.AssemblyInfo.cs
 C:\Users\43765601896\Documents\DevopsCodeTur\Senai.CodeTur.Solution\Senai.CodeTur.Testes\obj\Debug\netcoreapp2.1\Senai.CodeTur.Teste.XUnit.dll
 C:\Users\43765601896\Documents\DevopsCodeTur\Senai.CodeTur.Solution\Senai.CodeTur.Testes\obj\Debug\netcoreapp2.1\Senai.CodeTur.Teste.XUnit.pdb
+C:\Users\43765601896\Documents\DevopsCodeTur\Senai.CodeTur.Solution\Senai.CodeTur.Testes\bin\Debug\netcoreapp2.1\Senai.CodeTur.Dominio.dll
+C:\Users\43765601896\Documents\DevopsCodeTur\Senai.CodeTur.Solution\Senai.CodeTur.Testes\bin\Debug\netcoreapp2.1\Senai.CodeTur.Infra.Data.dll
+C:\Users\43765601896\Documents\DevopsCodeTur\Senai.CodeTur.Solution\Senai.CodeTur.Testes\bin\Debug\netcoreapp2.1\Senai.CodeTur.Dominio.pdb
+C:\Users\43765601896\Documents\DevopsCodeTur\Senai.CodeTur.Solution\Senai.CodeTur.Testes\bin\Debug\netcoreapp2.1\Senai.CodeTur.Infra.Data.pdb
+C:\Users\43765601896\Documents\DevopsCodeTur\Senai.CodeTur.Solution\Senai.CodeTur.Testes\obj\Debug\netcoreapp2.1\Senai.CodeTur.Teste.XUnit.csproj.CopyComplete
+C:\Users\43765601896\Documents\DevopsCodeTur\Senai.CodeTur.Solution\Senai.CodeTur.Testes\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\43765601896\Documents\DevopsCodeTur\Senai.CodeTur.Solution\Senai.CodeTur.Testes\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\43765601896\Documents\DevopsCodeTur\Senai.CodeTur.Solution\Senai.CodeTur.Testes\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll

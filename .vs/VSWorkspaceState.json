@@ -3,7 +3,9 @@
     "",
     "\\Senai.CodeTur.Solution",
     "\\Senai.CodeTur.Solution\\Senai.CodeTur.Dominio",
-    "\\Senai.CodeTur.Solution\\Senai.CodeTur.Infra.Data"
+    "\\Senai.CodeTur.Solution\\Senai.CodeTur.Infra.Data",
+    "\\Senai.CodeTur.Solution\\Senai.CodeTur.Infra.Data\\Repositorios",
+    "\\Senai.CodeTur.Solution\\Senai.CodeTur.Testes"
   ],
   "SelectedNode": "\\Senai.CodeTur.Solution\\Senai.CodeTur.Infra.Data\\Repositorios",
   "PreviewInSolutionExplorer": false

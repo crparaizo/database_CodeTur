@@ -23,7 +23,6 @@ namespace Senai.CodeTur.Infra.Data.Repositorios
             {
                 throw new Exception(ex.Message);
             }
-
         }
     }
 }
